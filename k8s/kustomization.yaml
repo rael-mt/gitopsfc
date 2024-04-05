@@ -9,3 +9,6 @@ images:
 - name: goserver
   newName: raelmartins44/gitopsfc
   newTag: a6db9eadf85e6256fd9cf1e0a19c954669614a89
+- name: goserver-gitops
+  newName: raelmartins44/gitopsfc
+  newTag: 6f5d545a1e8e86f68987ce3d217b163eb69e647a

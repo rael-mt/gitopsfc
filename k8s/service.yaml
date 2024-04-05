@@ -4,7 +4,7 @@ metadata:
   name: goserver-service
 spec:
   selector:
-    app: goserver-gitops
+    app: goserver
   ports:
   - port: 8080
     targetPort: 8080

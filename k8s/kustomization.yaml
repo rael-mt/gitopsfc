@@ -8,7 +8,7 @@ resources:
 images:
 - name: goserver
   newName: raelmartins44/gitopsfc
-  newTag: b08e329473dba105b468b01ca3cec325c323b880
+  newTag: 4d9dd9ec4b5ce61815a26fc125ae3c2b1438610e
 - name: goserver-gitops
   newName: raelmartins44/gitopsfc
   newTag: 4d9dd9ec4b5ce61815a26fc125ae3c2b1438610e
